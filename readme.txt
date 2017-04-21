@@ -6,4 +6,4 @@ test
 public class 
 yes
 no
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
