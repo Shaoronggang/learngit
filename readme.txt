@@ -9,3 +9,4 @@ no
 Creating a new branch is quick AND simple.
 merge
 mergin
+nihao
